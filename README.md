@@ -35,4 +35,4 @@ amount of water. The app then reminds the user when it is time to water.
 
 ## Author
 
-Layan alsadoun✌🏻
+Layan AlSadoun✌🏻
