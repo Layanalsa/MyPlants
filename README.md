@@ -33,15 +33,6 @@ amount of water. The app then reminds the user when it is time to water.
 
 ---
 
-## How to Run
-
-1. Clone the repository.
-2. Open the project file in Xcode.
-3. Select a simulator.
-4. Press Run.
-
----
-
 ## Author
 
-Layan alsadoun
+Layan alsadoun✌🏻
