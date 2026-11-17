@@ -18,7 +18,7 @@ amount of water. The app then reminds the user when it is time to water.
 ## Features
 
 - Keep all plants in one place
-- watering reminder for the plants
+- Watering reminder for the plants
 - Choose the light type, the room, and the amount of water
 - Mark a plant as watered from the daily list
 - Edit or delete any plant at any time
